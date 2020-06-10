@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "834915086453",
+    "firebase_url": "https://agrilink-71276.firebaseio.com",
+    "project_id": "agrilink-71276",
+    "storage_bucket": "agrilink-71276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834915086453:android:7e09ca607ed2cd14dbc83c",
+        "android_client_info": {
+          "package_name": "com.example.splashjvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834915086453-lj6umvne8240gkikn5plvqom9l7s3ep6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.splashjvm",
+            "certificate_hash": "c8eb6a5b244e6ffd06ec55d53fb7addb287345ed"
+          }
+        },
+        {
+          "client_id": "834915086453-nmrqth6udfp5g7pr0mbpbva8accc2ejq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxX_hNPeMJznu05nUKLLxE_ydUMQ7Nix4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834915086453-nmrqth6udfp5g7pr0mbpbva8accc2ejq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

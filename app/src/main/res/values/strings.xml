@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ZeroHunger</string>
+
+
+    <!--    titles-->
+    <string name="first_slide_title">THE UNITED NATIONS</string>
+    <string name="second_slide_title">GLOBAL GOALS</string>
+    <string name="third_slide_title">ZERO HUNGER</string>
+
+
+    <string name="first_slide_desc">There are some global goals set</string>
+    <string name="second_slide_desc">One being Zero Hunger</string>
+    <string name="third_slide_desc">We want to accomplish that goal</string>
+
+    <!--    buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="lets_get_started">Lets get started</string>
+
+    //activity_register/login
+    <string name="username">Username</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="reg_button">Register</string>
+    <string name="log_button">login</string>
+    <string name="already">Already have an account?</string>
+    <string name="back_to_register">Dont have an account</string>
+
+    <!--    dashboard-->
+    <string name="cartegories">Dashboard</string>
+    <string name="description">Report Issue </string>
+    <string name="share_ideas">Company</string>
+
+</resources>
